@@ -6,7 +6,7 @@ Sistema de CL (clear-dm) + nuke discord
 Clone o repositório:
 
 ```bash
-git clone https://github.com/onlinemaxxing/clnuke-power
+git clone https://github.com/onlinemaxxing/clnuke-power.git
 cd clnuke-power
 ```
 
