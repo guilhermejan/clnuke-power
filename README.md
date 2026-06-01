@@ -1,4 +1,4 @@
-![](images/menu.png)
+![](menu/menu.png)
 
 # clnuke-power
 Sistema de CL (clear-dm) + nuke discord
