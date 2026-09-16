@@ -1,30 +1,5 @@
-![](menu/menu.png)
+# CLNuke Power
 
-# clnuke-power
-Sistema de CL (clear-dm) + nuke discord
+Ferramenta em Python que reúne limpeza de mensagens privadas (clear-DM) e operações de exclusão em massa em servidores Discord, com interface pelo terminal.
 
-## Instalação
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/guilhermejan/clnuke-power.git
-cd clnuke-power
-```
-
-Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-Execute:
-
-```bash
-python main.py
-```
-
-Dependências
-aiohttp
-requests
-colorama
+**Tecnologias:** Python, aiohttp, Requests e Colorama.
